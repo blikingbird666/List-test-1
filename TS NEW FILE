@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml"
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="http://hidra.live:80/images/71c7e03419573844f0a7d0b8009a51e8.png",La Red
+http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="http://hidra.live:80/images/441a1754ea7709febd9371cbe8e41d93.png", TVN
+http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png",Mega
+http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevision" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png",Chilevision
+http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="http://img.tvcl.xyz/chile/canal13.png",Canal 13
+http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cnn.cl" tvg-name="CNN Chile" tvg-logo="http://img.tvcl.xyz/noticias/cnn.png",CNN Chile
+http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="http://img.tvcl.xyz/noticias/24h.png",24 Horas
+http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT Sports 3" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png",TNT Sports 3
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-name="Zona Latina" tvg-logo="http://img.tvcl.xyz/musica/zonalatina.png",Zona Latina
+http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="CartoonNetworkChile.cl" tvg-name="Cartoon Network" tvg-logo="http://img.tvcl.xyz/dualaudio/cn.png",Cartoon Network
+http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="StudioUniversalChile.cl" tvg-logo="http://ext-cdn-aws-vip.mp1.tivo.com:8080/images/static/logos/130x110/136.png",Studio Universal
+http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="DiscoveryKidsChile.cl" tvg-logo="http://ext-cdn-aws-vip.mp1.tivo.com:8080/images/static/logos/130x110/3.png",Discovery Kids
+http://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-logo="http://ext-cdn-aws-vip.mp1.tivo.com:8080/images/static/logos/130x110/7.png",Disney Junior
+http://live1.cl.cdn.lla.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
