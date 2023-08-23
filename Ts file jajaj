@@ -1,4 +1,4 @@
-#EXTM3U tvg-id="ChileVision.cl" tvg-name="Chilevision" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png",Chilevision
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevision" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png",Chilevision
 https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=PUgIEesaIHhTi5hd6z2j2t9egV180Gcf&sid=Ana3m0F3KUokijth6jOrXoPfixWnqpVv&pid=12hxO0t348W5xEkhHpIrQJDJ0XO9BAbu&an=mdstrm-player&at=web-app&av=v5.2.361&ref=&res=774x460&without_cookies=false&listenerid=&dnt=true&access_token=z1ubLPMvEzJmLet792SGuMBmZ0Z9gVcD2eIxx8T631k5hAFvOllIRKyoxFFbXk6D6upfBYS6h9M&adInsertionSessionId=fdfed5b7-e397-44eb-bfb2-527979d5100b
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="http://img.tvcl.xyz/chile/canal13.png",Canal 13
 http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
